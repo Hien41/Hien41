@@ -5,6 +5,7 @@
         <li>School: </li>
         <li>Goal: </li>
         <li>Fun: </li>
+        <li>Run: </li>
     </ul>
 </body>
 <h2>⚡ Github Stats</h2>
